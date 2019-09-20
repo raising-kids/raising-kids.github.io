@@ -10,9 +10,11 @@
 		{% for post in site.posts limit:10 %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
+				{% comment %}
 				{% if post.author %}
 					<dc:creator>{{ post.author | xml_escape }}</dc:creator>
 				{% endif %}
+				{% endcomment %}
 				{% if post.excerpt %}
 					<description>{{ post.excerpt | xml_escape }}</description>
 				{% else %}
