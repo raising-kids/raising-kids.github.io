@@ -1,7 +1,9 @@
 // Importing Sass/SCSS partials from `sass_dir` (defaults to `_sass`)
 @import "base",
+        "variable-z",
         "default",
         "home",
+        "home-z",
         "misc",
         "post",
         "header",

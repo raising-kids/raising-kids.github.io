@@ -1,4 +1,5 @@
 ---
+draft: true
 layout: post
 title: "Learning Resources"
 author: "Paul Le"
