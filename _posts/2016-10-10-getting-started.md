@@ -1,4 +1,5 @@
 ---
+draft: true
 layout: post
 title: "Getting Started"
 author: "Paul Le"
