@@ -29,7 +29,8 @@ layout: default
     {{ content }}
   </article>
 
-  <div class="post-share">
+  <!-- TODO: disable sharing temporarily -->
+  <div class="post-share" style="display:none;">
     <div class="post-date">{{ site.data.settings.sharing_button_prompt }}</div>
     <div class="sharing-icons">
       <a href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ site.github.url }}{{ page.url }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
