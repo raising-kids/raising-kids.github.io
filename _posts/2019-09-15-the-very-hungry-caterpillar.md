@@ -21,7 +21,7 @@ image: the-very-hungry-caterpillar.jpg
 
 [当当链接](http://product.dangdang.com/22801919.html)
 
-[京东链接](https://item.jd.com/19043666.html?dist=jd)
+[京东链接](https://union-click.jd.com/jdc?e=&p=AyIGZRtTHAMaBVYTWRIyEg9UHlkSBRU3EUQDS10iXhBeGlcJDBkNXg9JHU4YDk5ER1xOGRNLGEEcVV8BXURFUFdfC0RVU1JRUy1OVxUKEwJXHFwSMnBuEQUnFnUSYhdhH1AAZ3dcRQhKdEQLWStaJQITBlYbXRUFFg9lK1sSMkBpja3tzaejG4Gx1MCKhTdUK1sRBBQAVhNSEQUSAlIrXBULIlEBXh9UW0xYAytrJQEiN2UbaxYyUGlWTF1BUBUGVUtcRgYXD1wcCBYBFg4FSwxCVRtXVh9YRTIQBlQfUg%3D%3D)
 
 [豆瓣链接](https://book.douban.com/subject/1341007/)
 
